@@ -106,6 +106,9 @@ main section article ul li {
 }
 
 @media (max-width: 920px) {
+  body {
+    position: relative;
+  }
   header {
     position: absolute;
     width: 100%;
