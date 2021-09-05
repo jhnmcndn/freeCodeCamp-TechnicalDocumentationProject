@@ -26,17 +26,17 @@ section article {
 
 @font-face {
   font-family: "PopRegular";
-  src: url(/fonts/Poppins-Regular.ttf);
+  src: url(../fonts/Poppins-Regular.ttf);
 }
 
 @font-face {
   font-family: "PopMedium";
-  src: url(/fonts/Poppins-Medium.ttf);
+  src: url(../fonts/Poppins-Medium.ttf);
 }
 
 @font-face {
   font-family: "PopBold";
-  src: url(/fonts/Poppins-Bold.ttf);
+  src: url(../fonts/Poppins-Bold.ttf);
 }
 
 header {
